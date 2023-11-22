@@ -1,0 +1,15 @@
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\ДЗ Знакомство с языками программирования.csproj.AssemblyReference.cache
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\ДЗ Знакомство с языками программирования.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\ДЗ Знакомство с языками программирования.AssemblyInfoInputs.cache
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\ДЗ Знакомство с языками программирования.AssemblyInfo.cs
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\ДЗ Знакомство с языками программирования.csproj.CoreCompileInputs.cache
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\bin\Debug\net6.0\ДЗ Знакомство с языками программирования.exe
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\bin\Debug\net6.0\ДЗ Знакомство с языками программирования.deps.json
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\bin\Debug\net6.0\ДЗ Знакомство с языками программирования.runtimeconfig.json
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\bin\Debug\net6.0\ДЗ Знакомство с языками программирования.dll
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\bin\Debug\net6.0\ДЗ Знакомство с языками программирования.pdb
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\ДЗ Знакомство с языками программирования.dll
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\refint\ДЗ Знакомство с языками программирования.dll
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\ДЗ Знакомство с языками программирования.pdb
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\ДЗ Знакомство с языками программирования.genruntimeconfig.cache
+C:\Users\banan\OneDrive\Рабочий стол\ДЗ Знакомство с языками программирования\obj\Debug\net6.0\ref\ДЗ Знакомство с языками программирования.dll
